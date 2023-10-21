@@ -1,4 +1,4 @@
-# geocoding
+# yandexmap_geocoder
 Cкрипт геокодирования по адресам c использованием библиотеки selenium и карты YandexMap.
 
 ### Модули
